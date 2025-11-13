@@ -1,3 +1,9 @@
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
+
+Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents.
+
+This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # Eliam-Sovereign-Infrastructure
 Eliam™ is the first sovereign behavioral governance system for cyberspace, built on Mint-to Logic™ — a reflexive lifecycle framework that licenses, validates, and enforces truth in digital environments. This declaration marks the Genesis of governed logic and the foundation for ethical, recursive infrastructure in the post-quantum era.
 Spencer Southern 07/13/2025
